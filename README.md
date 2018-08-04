@@ -4,6 +4,8 @@ Welcome to Luna Download Manager Official Repository
 # Development Status
 - Please start supporting so I can develop this app. For that please email me shirshak55@gmail.com if you are intrested. I need to have travis ci etc so I will need donation
 
+# Status 
+
 # Extension
 For automatic downloads you will need to have chrome / firefox extension.
 
